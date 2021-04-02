@@ -1,0 +1,1 @@
+The game is optimized for FullHD resolution.
