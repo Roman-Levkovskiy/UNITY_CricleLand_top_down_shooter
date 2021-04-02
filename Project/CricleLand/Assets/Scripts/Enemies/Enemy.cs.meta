@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e0d52eb9ab850af42860f83ae6a0bcf4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - hitSound1: {fileID: 8300000, guid: 13f4da72b0c60844691fa0e5cd01c480, type: 3}
+  - hitSound2: {fileID: 8300000, guid: b0f82ad7842e9cc40bb3fce0647051db, type: 3}
+  - hitSound3: {fileID: 8300000, guid: cc1c101bacf1369409990643c8778903, type: 3}
+  - hitSound4: {fileID: 8300000, guid: 799ee18b5b3838841be3a8bfae0491c4, type: 3}
+  - hitSound5: {fileID: 8300000, guid: 052f3f1b20fc7e648ad9bea3484a57cf, type: 3}
+  - hitSound6: {fileID: 8300000, guid: 72c0fb5d8253ff847814f55c5517805b, type: 3}
+  - allMaterials: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
